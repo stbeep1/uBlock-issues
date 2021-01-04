@@ -8,7 +8,7 @@ This is the official community-maintained [issue tracker for uBlock Origin](http
 
 **Opening issues for adding new filter lists is now disallowed and such issues will be declined and closed.**
 
-**Support issues and questions are handled at [/r/uBlockOrigin](https://old.reddit.com/r/uBlockOrigin/).**
+**Support issues and questions are handled at [/r/uBlockOrigin](https://www.reddit.com/r/uBlockOrigin/).**
 
 # uBO-dev-builds
 
